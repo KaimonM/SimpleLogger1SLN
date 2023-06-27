@@ -15,10 +15,9 @@ namespace SimpleLoggerr
             {
                 Console.WriteLine("The info was logged succesfully");
             }
-
             else
             {
-                Console.WriteLine("Log failed");
+                Console.WriteLine("Log failed...please try again ");
             }
 
          
